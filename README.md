@@ -1,3 +1,29 @@
+# agent-skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Production-grade engineering skills for AI coding agents.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 AI 编码 Agent 的生产级工程技能库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Agent Skills
 
 **Production-grade engineering skills for AI coding agents.**
